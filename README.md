@@ -1,4 +1,4 @@
-####Anjalan VPK vehicle and equipments' pages
+# Anjalan VPK vehicle and equipments' pages (2013)
 
 When user hovers or click on each vehicle component, it will dynamically open, showing up its internal parts as well as its corresponding detail information.
 
