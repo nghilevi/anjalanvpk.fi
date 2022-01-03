@@ -4,4 +4,4 @@ When user hovers or click on each vehicle component, it will dynamically open, s
 
 ![](https://raw.githubusercontent.com/vinhnghi223/anjalanvpk.fi/master/Screenshot.PNG)
 
-![](https://raw.githubusercontent.com/vinhnghi223/anjalanvpk.fi/master/Screenshot2.PNG)
+![](https://raw.githubusercontent.com/vinhnghi223/anjalanvpk.fi/master/Screenshot2.jpg)
